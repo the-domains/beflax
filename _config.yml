@@ -1,4 +1,4 @@
-name: Beflax
+name: Beflax - Natural Linen Textile
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.84715
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.375
   lightness: 0.375
   saturation: 0.375
-  rhythmicContrast: 0.333062608493492
+  rhythmicContrast: 0.5
 purpose: []
