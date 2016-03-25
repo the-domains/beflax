@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "Our linen is naturally grown and made from the\_flax plant in Eastern Europe. We use finest technology in weaving and eco-friendly fabric production, taking\_extra care in ensuring the preservation of all of linen's extraordinary benefits."
-datePublished: '2016-03-20T22:53:06.664Z'
-dateModified: '2016-03-20T22:52:24.215Z'
-title: ''
+datePublished: '2016-03-25T22:54:26.564Z'
+dateModified: '2016-03-25T22:53:52.009Z'
+title: Home
 author: []
+sourcePath: _posts/2016-03-20-our-linen-is-naturally-grown-and-made-from-the-flax-plant-in.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-our-linen-is-naturally-grown-and-made-from-the-flax-plant-in.md
-published: true
 url: our-linen-is-naturally-grown-and-made-from-the-flax-plant-in/index.html
 _type: Article
 
